@@ -1,1 +1,3 @@
-alo brasil
+
+Este e meu projeto de CiberSecurity, criando meu primeiro ransoware com python.
+A titutlo de estudos para trilha de CyberSeguranca na DIO!
